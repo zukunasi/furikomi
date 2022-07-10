@@ -1,0 +1,2 @@
+# furikomi
+振込されたのがどのお金なのかの計算をするjavaScript
