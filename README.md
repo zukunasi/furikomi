@@ -5,10 +5,15 @@
 
 オフライン環境で動くようにしています
 
+## 2022/7/11 IE11に対応
+
+- BootstapをVerDown(5->4)
+- JavaScript構文を見直し
+
 ## OSS
 
 以下を使ってます
 
-- BootStrap
+- BootStrap 4.3
 - jquery
 
